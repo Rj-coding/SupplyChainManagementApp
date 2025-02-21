@@ -122,7 +122,7 @@ SupplyChainManagementApp/
 - Implement Frontend in Angular/React
 
 ## 🤝 Contributors
-- **Your Name** – Developer
+- **Name** – Rajnish Kumar Singh
 
 ## 📜 License
 This project is licensed under the **MIT License**.
