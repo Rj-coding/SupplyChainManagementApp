@@ -78,6 +78,7 @@ SupplyChainManagementApp/
 - **Create Customer**: `POST /api/customers`
 - **Get Customer By ID**: `GET /api/customers/{id}`
 - **Get All Customers**: `GET /api/customers`
+- **Update Customer**: `PUT /api/customer`
 
 ### Order APIs
 - **Create Order**: `POST /api/orders`
@@ -88,10 +89,16 @@ SupplyChainManagementApp/
 ### Supplier APIs
 - **Create Supplier**: `POST /api/suppliers`
 - **Get Supplier By ID**: `GET /api/suppliers/{id}`
+-  **Update Supplier**: `PUT /api/supplier`
+-  **Delete Supplier By ID**: `DELETE /api/supplier/{id}`
 
 ### Product APIs
 - **Create Product**: `POST /api/products`
 - **Get Product By ID**: `GET /api/products/{id}`
+- **Get Products By Supplier ID**: `GET /api/product/supplier/{id}`
+- **Update Product**: `PUT /api/product`
+- **Delete Product By ID**: `DELETE /api/product/{id}`
+
 
 ## ⚡ Running the Application
 ### Prerequisites
